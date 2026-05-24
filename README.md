@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey, I'm David.
 
-<!--
-**davidjimenezmarin/davidjimenezmarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and operate full-stack systems for agricultural IoT at **Agerpix Technologies SL** —
+web infra, backend, deployments, and hardware down to ESP32 devices.
+One person, the whole stack, production.
 
-Here are some ideas to get you started:
+Currently learning to serve and operate ML models at scale.
+Goal: AI Systems / Inference Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work with every day**
+Docker · nginx · PostgreSQL · Redis · FastAPI · MicroPython · Linux
+
+**What I'm building toward**
+Model serving · edge inference · reliability · observability
+
+---
+
+🌱 Working on: Edge Inference Gateway — serving models over real sensor data,
+with caching, fallback, and the kind of observability you only care about
+when things break in production.
